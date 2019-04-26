@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1096102634224",
+    "firebase_url": "https://shee-8af11.firebaseio.com",
+    "project_id": "shee-8af11",
+    "storage_bucket": "shee-8af11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1096102634224:android:f559ced719fde9b5",
+        "android_client_info": {
+          "package_name": "com.ann.greensolution"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1096102634224-k7pq5035afp31j751721eiqhjodtc367.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5_F_zDS8YujASudenSuFzaYlJptXzMDk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1096102634224-k7pq5035afp31j751721eiqhjodtc367.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
